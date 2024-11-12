@@ -1,7 +1,6 @@
-#  👋 Welcome to My GitHub Profile! 👋
+# 👋 Welcome to My GitHub Profile! 👋
 
-I'm Roshan Ghadge, a Passionate QA with 3 years of experience. I'm on a journey to master automation testing using Selenium with Java. with expertise in software testing methodologies, quality assurance, and 
-automation. Here, you'll find a collection of my projects ranging from Selenium practices to API testing and more.
+I'm Roshan Ghadge, a Passionate QA with 3 years of experience. I'm on a journey to master automation testing using Selenium with Java, with expertise in software testing methodologies, quality assurance, and automation. Here, you'll find a collection of my projects ranging from Selenium practices to API testing and more.
 
 ## 📂 Repositories
 
@@ -48,12 +47,17 @@ A repository for learning and practicing Selenium automation techniques.
 ### 📧 Voice-Based Email Sending with GUI (Graduation Project)
 **Repository:** [Voice_Based_Email_Sending_with_GUI-Graduation_Project](https://github.com/RoshanGhadge20/Voice_Based_Email_Sending_with_GUI-Graduation_Project)
 
-My graduation project focuses on sending emails using voice commands and a graphical user interface.
+My graduation project focuses on sending emails using voice commands with graphical user interface. 
 
 ### 🔰 Beginners' Projects for Automation Practice
 **Repository:** [Begginers_Projects_Automation_Practice](https://github.com/RoshanGhadge20/Begginers_Projects_Automation_Practice)
 
 Simple automation projects designed for beginners to practice and enhance their skills.
+
+### 🛠️ Automation Framework
+**Repository:** [Amazon_Automation_Framework](https://github.com/RoshanGhadge20/Amazon_Automation_Framework)
+
+An automation framework for Amazon website testing using Page Object Model (POM), Covering Login, Dashboard, Product, ShoppingCart, and YourOrder functionalities.
 
 ---
 
