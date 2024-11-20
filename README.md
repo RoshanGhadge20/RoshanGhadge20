@@ -55,7 +55,7 @@ My graduation project focuses on sending emails using voice commands with graphi
 Simple automation projects designed for beginners to practice and enhance their skills.
 
 ### 🛠️ Automation Framework
-**Repository:** [Amazon_Automation_Framework](https://github.com/RoshanGhadge20/Amazon_Automation_Framework)
+**Repository:** [Automation_Framework](https://github.com/RoshanGhadge20/Automation_Framework)
 
 An automation framework for Amazon website testing using Page Object Model (POM), Covering Login, Dashboard, Product, ShoppingCart, and YourOrder functionalities.
 
