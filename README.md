@@ -57,7 +57,7 @@ Simple automation projects designed for beginners to practice and enhance their 
 ### 🛠️ Automation Framework
 **Repository:** [Automation_Framework](https://github.com/RoshanGhadge20/Automation_Framework)
 
-An automation framework for Amazon website testing using Page Object Model (POM), Covering Login, Dashboard, Product, ShoppingCart, and YourOrder functionalities.
+An automation framework for Amazon website testing using Page Object Model (POM), Covering Login, Dashboard, Product, ShoppingCart, and YourOrder functionalities into framework. 
 
 ---
 
