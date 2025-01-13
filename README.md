@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile! 👋
 
-I'm Roshan Ghadge, a Passionate QA with 3 years of experience. I'm on a journey to master automation testing using Selenium with Java, with expertise in software testing methodologies, quality assurance, and automation. Here, you'll find a collection of my projects ranging from Selenium practices to API testing and more.
+I'm Roshan Ghadge, a Passionate QA with 3+ years of experience. I'm on a journey to master automation testing using Selenium with Java, with expertise in software testing methodologies, quality assurance, and automation. Here, you'll find a collection of my projects ranging from Selenium practices to API testing and more.
 
 ## 📂 Repositories
 
